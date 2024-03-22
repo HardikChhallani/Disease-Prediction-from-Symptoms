@@ -8,7 +8,8 @@ from langchain_openai import ChatOpenAI
 import streamlit as st
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+### INSERT YOUR API KEY HERE.
+os.environ["OPENAI_API_KEY"] = "Your API KEY"
 
 llm = ChatOpenAI()
 parser = JsonOutputParser()
