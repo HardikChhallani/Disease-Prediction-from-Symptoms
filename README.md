@@ -47,6 +47,3 @@ export OPENAI_API_KEY="your_openai_api_key"
 - The data used in this project is sourced from publicly available datasets.
 
 ![image](https://github.com/HardikChhallani/Disease-Prediction-from-Symptoms/assets/116100549/99bb54e0-03f9-41b0-a545-b8d243bc85f4)
-
-
-Please attach the Streamlit UI page (`app.py`) to this repository for the complete functionality of the disease prediction system.
