@@ -1,0 +1,8 @@
+flask
+nltk
+scikit-learn
+pandas
+langchain
+langchain-openai
+json
+streamlit
